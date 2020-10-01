@@ -31,12 +31,13 @@ Example 3:
 Input: [7,6,4,3,1]
 Output: 0
 Explanation: In this case, no transaction is done, i.e. max profit = 0.
-``` 
+```
 
 Constraints:
 
-1 <= prices.length <= 3 * 10 ^ 4
-0 <= prices[i] <= 10 ^ 4
+1 <= prices.length <= 3 * 10<sup>4</sup>
+
+0 <= prices[i] <= 10<sup>4</sup>
 
 
 ### Approach:
@@ -56,7 +57,6 @@ Pseudo Code:
         return sum;
 ```
 
-### Complexity Analysis
-Time Complexity: O(N) : N = Total number of inputs
+**Time Complexity: O(N)** 
 
-Space Complexity: O(1) : Constant Space
+**Space Complexity: O(1)**
