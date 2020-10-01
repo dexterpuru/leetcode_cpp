@@ -2,6 +2,6 @@ EASY:-
 
 
 MEDIUM:-
-
+	Q1.Given a collection of distinct integers, return all possible permutations.
 
 HARD:-
