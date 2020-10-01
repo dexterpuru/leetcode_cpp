@@ -9,7 +9,6 @@ MEDIUM:-
 	Q3. Given a nested list of integers, implement an iterator to flatten it.
 	Q4. You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise).
   Q5. String to Integer (atoi)
-  	Q6. 
-  	Q7. Given an array A of integers, return the length of the longest mountain from subarrays. 
+  	Q6. Given an array A of integers, return the length of the longest mountain from subarrays. 
 	
 HARD:-
