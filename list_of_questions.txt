@@ -2,7 +2,9 @@ EASY:-
 
 
 MEDIUM:-
-	Q1.Given a collection of distinct integers, return all possible permutations.
-	Q2. String to Integer (atoi)
-
+	Q1. Given a collection of distinct integers, return all possible permutations.
+	Q2. Given a matrix of m x n elements (m rows, n columns), return all elements of the matrix in spiral order.
+	Q3. Given a nested list of integers, implement an iterator to flatten it.
+  Q4. String to Integer (atoi)
+	
 HARD:-
