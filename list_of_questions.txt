@@ -2,6 +2,7 @@ EASY:-
 Q1. Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 Q2. Find the sum of all left leaves in a given binary tree.
 Q3. Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+Q4. Given an array of integers A sorted in non-decreasing order, return an array of the squares of each number, also in sorted non-decreasing order.
 
 MEDIUM:-
 	Q1. Given a collection of distinct integers, return all possible permutations.
