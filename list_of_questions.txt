@@ -1,7 +1,6 @@
-EASY:- 
-	
-	Q2. Find the sum of all left leaves in a given binary tree.
-
+EASY:-
+Q1. Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+Q2. Find the sum of all left leaves in a given binary tree.
 
 MEDIUM:-
 	Q1. Given a collection of distinct integers, return all possible permutations.
