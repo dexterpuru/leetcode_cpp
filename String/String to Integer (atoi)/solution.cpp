@@ -31,10 +31,3 @@ public:
         return result * sign;
     }
 };
-
-int main() {
-    Solution sol;
-    string str = "2020 hacktoberfest";
-    cout << sol.myAtoi(str);
-    return 0;
-}
