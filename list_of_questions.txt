@@ -3,5 +3,6 @@ EASY:-
 
 MEDIUM:-
 	Q1.Given a collection of distinct integers, return all possible permutations.
+	Q2. String to Integer (atoi)
 
 HARD:-
