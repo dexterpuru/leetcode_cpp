@@ -1,7 +1,7 @@
 Find the sum of all left leaves in a given binary tree.
 
 Difficulty- Easy
-
+ 
 Example:
 
     3
