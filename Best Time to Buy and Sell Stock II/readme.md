@@ -37,3 +37,21 @@ Constraints:
 
 ### Approach:
 Consider every peak immediately following a valley, and add it to the total sum
+
+Pseudo Code: 
+```
+        int sum = 0, prev = 0;
+        loop from 0 till size of prices array
+            if i == prices.size() - 1:
+                sum += prices[i] - prices[prev];
+
+            else if (prices[i] > prices[i + 1]):
+                sum += prices[i] - prices[prev];
+                prev = i + 1;
+
+        return sum;
+```
+
+### Complexity Analysis
+Time Complexity: O(N) : N = Total number of inputs
+Space Complexity: O(1) : Constant Space
