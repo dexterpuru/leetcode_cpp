@@ -1,6 +1,7 @@
 EASY:-
 Q1. Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 Q2. Find the sum of all left leaves in a given binary tree.
+Q3. Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 MEDIUM:-
 	Q1. Given a collection of distinct integers, return all possible permutations.
@@ -8,5 +9,7 @@ MEDIUM:-
 	Q3. Given a nested list of integers, implement an iterator to flatten it.
 	Q4. You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise).
   Q5. String to Integer (atoi)
+  	Q6. 
+  	Q7. Given an array A of integers, return the length of the longest mountain from subarrays. 
 	
 HARD:-
