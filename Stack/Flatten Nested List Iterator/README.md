@@ -26,4 +26,32 @@
 >              the order of elements returned by next should be: [1,4,6].
 > ```
 
-### 
+### Approach
+
+Iterator through the given list. If it is an integer push it into a new stack otherwise iterate through the nested list and add it's elements one by one.
+
+### Pseudo-code
+
+> ``` 
+> NestedIterator(vector<NestedInteger> &nestedList) {
+>         for(auto i:nestedList){
+>             stack<NestedInteger>st
+>             st.PUSH(i)
+>             While(!st.empty()){
+>                 auto j =st.TOP()
+>                 st.POP()
+>                 If(j.isInteger())
+>                     res.PUSH_BACK(j.getInteger())
+>                 Else{
+>                     vector<NestedInteger>tmp = j.getList()
+>                     for(int i=tmp.SIZE()-1;i>-1;--i)
+>                         st.PUSH(tmp[i])
+>                 }
+>             }
+>         }   
+>     }
+> ```
+
+**Time Complexity: O(N)**, where N is the length of the resultant vector.
+
+**Space Complexity: O(N)**, since in the worst case, we might have to create a stack with N elements.

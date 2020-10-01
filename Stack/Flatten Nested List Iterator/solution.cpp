@@ -34,8 +34,7 @@ public:
                         st.push(tmp[i]);
                 }
             }
-        }
-        
+        } 
     }
     
     int next() {
