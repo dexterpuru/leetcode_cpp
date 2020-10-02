@@ -42,7 +42,7 @@ If the character is unique, one could just return its index.
 
 > **Time Complexity:** O(N). Here, N is the length of string str. 
 
-> **Space Complexity:** O(1). We use constant extra space for storing the elements and their frequencies in a hashtable.
+> **Space Complexity:** O(N). We use O(N) extra space for storing the elements and their frequencies in a hashtable.
 
 
 
