@@ -2,13 +2,14 @@
 
 Maximum Subarray
 Maximum Depth of Binary Tree
-Sum of Left Leaves
 Two Sum
 Longest Mountain in Array
 Sorted Squares
+Sum of Left Leaves
 Rotate Image
 Spiral Matrix
 Permutations
 Flatten Nested List Iterator
 String to Integer (atoi)
 Best Time to Buy and Sell Stock II
+First Unique Character in a String
