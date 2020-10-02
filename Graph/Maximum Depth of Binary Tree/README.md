@@ -39,5 +39,6 @@ maxDepth(TreeNode *root) {
 }
 ```
 
-
+**Time Complexity: O(N)**, N being number of nodes.
+**Space Complexity: O(H)**, H being the height of the tree; Due to recursive stack.
 
