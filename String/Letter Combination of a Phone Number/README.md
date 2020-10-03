@@ -17,6 +17,3 @@ Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
 Note:
 
 Although the above answer is in lexicographical order, your answer could be in any order you want.
-
-**Would you like to do this issue?**
-Yes, I would love to contribute to this repo kindly assign me this issue with hacktoberfest label.
